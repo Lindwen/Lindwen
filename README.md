@@ -1,9 +1,9 @@
 # Hi there 👋
 ## Welcome to my profile !
 
-👓 SysAdmin and Dev (HTML, CSS, JS, PHP, C, PYTHON)
-
-💜 Debian
+◽ 👓 SysAdmin and Dev (HTML, CSS, JS, PHP, C, PYTHON)
+◾ 💜 Debian
+◽ 🧷 https://www.lindwen.fr/
 
 [![GitHub followers](https://img.shields.io/github/followers/Lindwen?label=Follow&color=blueviolet&style=flat&logo=GitHub)](https://github.com/Lindwen/?tab=follow)
 ![Lindwen](https://komarev.com/ghpvc/?username=Lindwen&color=blueviolet&style=flat)
