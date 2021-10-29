@@ -10,6 +10,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Lindwen?label=Follow&color=blueviolet&style=flat&logo=GitHub)](https://github.com/Lindwen/?tab=follow)
 <!--![Lindwen](https://komarev.com/ghpvc/?username=Lindwen&color=blueviolet&style=flat)-->
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-frame=true&no-bg=true)
+
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Lindwen/count.svg" />
