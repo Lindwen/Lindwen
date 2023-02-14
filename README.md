@@ -1,9 +1,11 @@
 # Hi there 👋
 ## Welcome to my profile !
 
-◽ 👓 SysAdmin and Dev (HTML, CSS, JS, PHP, C, PYTHON)
-
-◾ 💜 Debian
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,kubernetes,docker,grafana,prometheus,linux,nginx,vim,html,css,go,js,nodejs" />
+  </a>
+</p>
 
 ◽ 🧷 https://www.lindwen.fr/
 
