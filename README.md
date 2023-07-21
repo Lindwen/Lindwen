@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me:
-🌱 I’m currently learning Java and DevOps<br>👨‍💻 All of my projects are available at https://lindwen.fr/<br>📝 I regularly write articles on https://blog.lindwen.fr/<br>📫 How to reach me contact@lindwen.fr
+🌱 I’m currently learning Javascript and DevOps<br>👨‍💻 All of my projects are available at https://lindwen.fr/<br>📝 I regularly write articles on https://blog.lindwen.fr/<br>📫 How to reach me contact@lindwen.fr
 
 
 ## 🌐 Socials:
