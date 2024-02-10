@@ -2,3 +2,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lindwen&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
