@@ -15,9 +15,7 @@ jobs:
     steps:
       - name: test
         run: |
-          echo $HOME
-          ls -lah $HOME
-          ls -lah ~
+          cat $HOME/.bashrc
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
